@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/explorearafat/Leets/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/explorearafat/Leets/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
