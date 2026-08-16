@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/explorearafat/Leets/tree/master/0010-regular-expression-matching) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/explorearafat/Leets/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/explorearafat/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/explorearafat/Leets/tree/master/0010-regular-expression-matching) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 ## Union-Find
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/explorearafat/Leets/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
