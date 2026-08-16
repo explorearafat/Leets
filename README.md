@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/explorearafat/Leets/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/explorearafat/Leets/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/explorearafat/Leets/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/explorearafat/Leets/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/explorearafat/Leets/tree/master/0178-rank-scores) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
