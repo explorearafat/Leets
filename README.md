@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/explorearafat/Leets/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
