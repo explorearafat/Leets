@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/explorearafat/Leets/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/explorearafat/Leets/tree/master/0007-reverse-integer) |
 | [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
