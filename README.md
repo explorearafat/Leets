@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/explorearafat/Leets/tree/master/3643-flip-square-submatrix-vertically) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/explorearafat/Leets/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/explorearafat/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting Sort
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/explorearafat/Leets/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
