@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/explorearafat/Leets/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/explorearafat/Leets/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/explorearafat/Leets/tree/master/0010-regular-expression-matching) |
 ## Combinatorics
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/explorearafat/Leets/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
