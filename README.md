@@ -1,199 +1,243 @@
-# Leets
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🧠 LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/explorearafat/Leets/tree/master/0001-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
-| [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
-| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
-| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/explorearafat/Leets/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-| [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
-| [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
-| [2906-construct-product-matrix](https://github.com/explorearafat/Leets/tree/master/2906-construct-product-matrix) |
-| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
-| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/explorearafat/Leets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-| [3546-equal-sum-grid-partition-i](https://github.com/explorearafat/Leets/tree/master/3546-equal-sum-grid-partition-i) |
-| [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
-| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
-| [3643-flip-square-submatrix-vertically](https://github.com/explorearafat/Leets/tree/master/3643-flip-square-submatrix-vertically) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/explorearafat/Leets/tree/master/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/explorearafat/Leets/tree/master/0007-reverse-integer) |
-| [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/explorearafat/Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## Greedy
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-| [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
-| [3474-lexicographically-smallest-generated-string](https://github.com/explorearafat/Leets/tree/master/3474-lexicographically-smallest-generated-string) |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Minimax
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-## Counting
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/explorearafat/Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## Game Theory
-|  |
-| ------- |
-| [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-## Nim Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
-## String
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/explorearafat/Leets/tree/master/0010-regular-expression-matching) |
-| [0657-robot-return-to-origin](https://github.com/explorearafat/Leets/tree/master/0657-robot-return-to-origin) |
-| [2075-decode-the-slanted-ciphertext](https://github.com/explorearafat/Leets/tree/master/2075-decode-the-slanted-ciphertext) |
-| [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
-| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/explorearafat/Leets/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
-| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/explorearafat/Leets/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
-| [3474-lexicographically-smallest-generated-string](https://github.com/explorearafat/Leets/tree/master/3474-lexicographically-smallest-generated-string) |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/explorearafat/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/explorearafat/Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## Sorting
-|  |
-| ------- |
-| [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
-| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/explorearafat/Leets/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/explorearafat/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
-## Counting Sort
-|  |
-| ------- |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/explorearafat/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/explorearafat/Leets/tree/master/0001-two-sum) |
-| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/explorearafat/Leets/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/explorearafat/Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-| [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
-## Matrix
-|  |
-| ------- |
-| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
-| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/explorearafat/Leets/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
-| [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
-| [2906-construct-product-matrix](https://github.com/explorearafat/Leets/tree/master/2906-construct-product-matrix) |
-| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/explorearafat/Leets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
-| [3546-equal-sum-grid-partition-i](https://github.com/explorearafat/Leets/tree/master/3546-equal-sum-grid-partition-i) |
-| [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
-| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
-| [3643-flip-square-submatrix-vertically](https://github.com/explorearafat/Leets/tree/master/3643-flip-square-submatrix-vertically) |
-## Enumeration
-|  |
-| ------- |
-| [3546-equal-sum-grid-partition-i](https://github.com/explorearafat/Leets/tree/master/3546-equal-sum-grid-partition-i) |
-| [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [2906-construct-product-matrix](https://github.com/explorearafat/Leets/tree/master/2906-construct-product-matrix) |
-| [3546-equal-sum-grid-partition-i](https://github.com/explorearafat/Leets/tree/master/3546-equal-sum-grid-partition-i) |
-| [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/explorearafat/Leets/tree/master/0010-regular-expression-matching) |
-| [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
-| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
-| [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
-| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
-| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/explorearafat/Leets/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Union-Find
-|  |
-| ------- |
-| [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
-## Two Pointers
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-| [3643-flip-square-submatrix-vertically](https://github.com/explorearafat/Leets/tree/master/3643-flip-square-submatrix-vertically) |
-## String Matching
-|  |
-| ------- |
-| [3474-lexicographically-smallest-generated-string](https://github.com/explorearafat/Leets/tree/master/3474-lexicographically-smallest-generated-string) |
-## Stack
-|  |
-| ------- |
-| [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
-## Simulation
-|  |
-| ------- |
-| [0657-robot-return-to-origin](https://github.com/explorearafat/Leets/tree/master/0657-robot-return-to-origin) |
-| [2075-decode-the-slanted-ciphertext](https://github.com/explorearafat/Leets/tree/master/2075-decode-the-slanted-ciphertext) |
-| [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/explorearafat/Leets/tree/master/0175-combine-two-tables) |
-| [0176-second-highest-salary](https://github.com/explorearafat/Leets/tree/master/0176-second-highest-salary) |
-| [0177-nth-highest-salary](https://github.com/explorearafat/Leets/tree/master/0177-nth-highest-salary) |
-| [0178-rank-scores](https://github.com/explorearafat/Leets/tree/master/0178-rank-scores) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/explorearafat/Leets/tree/master/0004-median-of-two-sorted-arrays) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/explorearafat/Leets/tree/master/0002-add-two-numbers) |
-| [0010-regular-expression-matching](https://github.com/explorearafat/Leets/tree/master/0010-regular-expression-matching) |
-## Combinatorics
-|  |
-| ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/explorearafat/Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
-## Number Theory
-|  |
-| ------- |
-| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
-## Euclidean Algorithm
-|  |
-| ------- |
-| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
-## Greatest Common Divisor
-|  |
-| ------- |
-| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Graph Theory
-|  |
-| ------- |
-| [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/explorearafat/Leets/tree/master/0002-add-two-numbers) |
-<!---LeetCode Topics End-->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Solving+LeetCode+Problems+%F0%9F%A7%A0;Building+Strong+DSA+Skills+%F0%9F%92%AA;One+Problem+at+a+Time+%E2%9A%A1;Turning+Logic+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures-DSA-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Practice-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 About This Repository
+
+Welcome to my **LeetCode Solutions Repository**.
+
+This repository contains my solutions to LeetCode problems that I solve while improving my:
+
+* 🧠 Problem Solving
+* ⚡ Data Structures & Algorithms
+* 💻 Competitive Programming
+* 🔍 Logical Thinking
+* 🚀 Coding Efficiency
+
+My goal is simple:
+
+> **Solve consistently. Understand deeply. Improve every day.**
+
+---
+
+## 📊 Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/?username=explorearafat&theme=dark&font=baloo&ext=heatmap" />
+
+</div>
+
+---
+
+## 🗂️ Problem Categories
+
+| Category              | Topics                                  |
+| --------------------- | --------------------------------------- |
+| 🔢 Arrays             | Two Pointer, Sliding Window, Prefix Sum |
+| 🔗 Linked List        | Reverse, Merge, Fast & Slow Pointer     |
+| 🌳 Trees              | DFS, BFS, BST                           |
+| 🧵 Strings            | Hashing, Palindrome, Parsing            |
+| 📚 Stack & Queue      | Monotonic Stack, BFS                    |
+| 🗺️ Hashing           | HashMap, HashSet, Frequency             |
+| 🔍 Searching          | Binary Search                           |
+| 🔄 Recursion          | Backtracking, Divide & Conquer          |
+| ⚡ Dynamic Programming | Memoization, Tabulation                 |
+| 🕸️ Graph             | DFS, BFS, Shortest Path                 |
+| 🧮 Math               | Number Theory, Bit Manipulation         |
+
+---
+
+## 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,cpp,python,js,ts" />
+
+</div>
+
+---
+
+---
+
+## 🔥 Featured Solutions
+
+Some of the problems I have solved:
+
+* ✅ Longest Substring Without Repeating Characters
+* ✅ Longest Palindromic Substring
+* ✅ Zigzag Conversion
+* ✅ Reverse Integer
+* ✅ Add Two Numbers
+* ✅ Merge K Sorted Lists
+* ✅ Reverse Nodes in K-Group
+
+More problems are added regularly.
+
+---
+
+## 📈 My DSA Journey
+
+```text
+Beginner
+   │
+   ├── Arrays
+   ├── Strings
+   ├── Linked Lists
+   │
+   ▼
+Intermediate
+   │
+   ├── Stack & Queue
+   ├── Binary Search
+   ├── Trees
+   ├── Recursion
+   │
+   ▼
+Advanced
+   │
+   ├── Graph
+   ├── Dynamic Programming
+   ├── Backtracking
+   └── Advanced Algorithms
+   │
+   ▼
+🎯 Strong Problem Solver
+```
+
+---
+
+## ⚡ Coding Philosophy
+
+```text
+╔══════════════════════════════════════╗
+║                                      ║
+║   Don't just memorize the solution.  ║
+║                                      ║
+║   Understand the pattern.            ║
+║                                      ║
+║   Understand the complexity.         ║
+║                                      ║
+║   Then write the code.               ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+---
+
+## ⏱️ Complexity Matters
+
+For every solution, I try to think about:
+
+```text
+Time Complexity
+      ↓
+O(1) → O(log n) → O(n) → O(n log n) → O(n²)
+
+Space Complexity
+      ↓
+How much extra memory does the solution use?
+```
+
+The goal is not only to make the code **work**.
+
+The goal is to make it:
+
+> **Correct + Efficient + Clean**
+
+---
+
+## 🌱 Daily Progress
+
+```text
+              ┌─────────────┐
+              │   Problem   │
+              └──────┬──────┘
+                     ↓
+             ┌───────────────┐
+             │   Understand  │
+             └──────┬────────┘
+                    ↓
+             ┌───────────────┐
+             │ Find Pattern  │
+             └──────┬────────┘
+                    ↓
+             ┌───────────────┐
+             │ Write Solution│
+             └──────┬────────┘
+                    ↓
+             ┌───────────────┐
+             │ Optimize Code │
+             └──────┬────────┘
+                    ↓
+             ┌───────────────┐
+             │ Learn & Repeat│
+             └───────────────┘
+```
+
+---
+
+## 🏆 Goal
+
+<div align="center">
+
+### `100 Problems` 🎯
+
+### `250 Problems` 🚀
+
+### `500 Problems` 🔥
+
+### `1000 Problems` 👑
+
+</div>
+
+---
+
+## 💡 Why I Solve LeetCode
+
+> **DSA is not about solving one problem.**
+
+> It's about learning how to approach thousands of problems you've never seen before.
+
+Every accepted solution is another step toward becoming a better programmer.
+
+---
+
+## 📌 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/explorearafat">
+<img src="https://img.shields.io/badge/GitHub-ExploreArafat-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+### 🚀 Keep Coding. Keep Learning. Keep Growing.
+
+⭐ **Star this repository if you find it useful.**
+
+</div>
