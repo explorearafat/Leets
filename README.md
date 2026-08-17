@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
+| [2906-construct-product-matrix](https://github.com/explorearafat/Leets/tree/master/2906-construct-product-matrix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/explorearafat/Leets/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/explorearafat/Leets/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
+| [2906-construct-product-matrix](https://github.com/explorearafat/Leets/tree/master/2906-construct-product-matrix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/explorearafat/Leets/tree/master/3643-flip-square-submatrix-vertically) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2906-construct-product-matrix](https://github.com/explorearafat/Leets/tree/master/2906-construct-product-matrix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Dynamic Programming
 |  |
