@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/explorearafat/Leets/tree/master/2751-robot-collisions) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/explorearafat/Leets/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/explorearafat/Leets/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/explorearafat/Leets/tree/master/3643-flip-square-submatrix-vertically) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/explorearafat/Leets/tree/master/2029-stone-game-ix) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/explorearafat/Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/explorearafat/Leets/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/explorearafat/Leets/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/explorearafat/Leets/tree/master/2573-find-the-string-with-lcp) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Union-Find
 |  |
 | ------- |
@@ -142,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/explorearafat/Leets/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/explorearafat/Leets/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
