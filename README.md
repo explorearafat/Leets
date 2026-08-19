@@ -252,6 +252,7 @@ Every accepted solution is another step toward becoming a better programmer.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/explorearafat/Leets/tree/master/0012-integer-to-roman) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
 |  |
@@ -266,10 +267,12 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/explorearafat/Leets/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/explorearafat/Leets/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/explorearafat/Leets/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/explorearafat/Leets/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
