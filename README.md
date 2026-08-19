@@ -290,6 +290,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0015-3sum](https://github.com/explorearafat/Leets/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/explorearafat/Leets/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/explorearafat/Leets/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/explorearafat/Leets/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Trie
 |  |
 | ------- |
@@ -304,4 +305,8 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/explorearafat/Leets/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/explorearafat/Leets/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
