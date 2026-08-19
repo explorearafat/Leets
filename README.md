@@ -247,6 +247,7 @@ Every accepted solution is another step toward becoming a better programmer.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/explorearafat/Leets/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@ Every accepted solution is another step toward becoming a better programmer.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/explorearafat/Leets/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
@@ -268,4 +270,8 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/explorearafat/Leets/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/explorearafat/Leets/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
