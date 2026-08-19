@@ -259,6 +259,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0012-integer-to-roman](https://github.com/explorearafat/Leets/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/explorearafat/Leets/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/explorearafat/Leets/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/explorearafat/Leets/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
 |  |
@@ -279,6 +280,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/explorearafat/Leets/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/explorearafat/Leets/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/explorearafat/Leets/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/explorearafat/Leets/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Math
 |  |
 | ------- |
@@ -332,4 +334,8 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/explorearafat/Leets/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/explorearafat/Leets/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
