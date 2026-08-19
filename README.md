@@ -313,6 +313,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/explorearafat/Leets/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/explorearafat/Leets/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/explorearafat/Leets/tree/master/0024-swap-nodes-in-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/explorearafat/Leets/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/explorearafat/Leets/tree/master/0024-swap-nodes-in-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
