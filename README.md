@@ -264,4 +264,8 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/explorearafat/Leets/tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/explorearafat/Leets/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
