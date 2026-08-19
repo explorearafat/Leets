@@ -310,6 +310,7 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/explorearafat/Leets/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/explorearafat/Leets/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
@@ -318,4 +319,8 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/explorearafat/Leets/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/explorearafat/Leets/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
