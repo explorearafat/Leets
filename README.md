@@ -249,6 +249,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | ------- |
 | [0011-container-with-most-water](https://github.com/explorearafat/Leets/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/explorearafat/Leets/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/explorearafat/Leets/tree/master/0015-3sum) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -282,8 +283,13 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/explorearafat/Leets/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/explorearafat/Leets/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/explorearafat/Leets/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/explorearafat/Leets/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
