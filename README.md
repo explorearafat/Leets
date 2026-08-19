@@ -260,4 +260,8 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/explorearafat/Leets/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
