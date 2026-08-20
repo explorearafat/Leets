@@ -256,6 +256,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0027-remove-element](https://github.com/explorearafat/Leets/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/explorearafat/Leets/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/explorearafat/Leets/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/explorearafat/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -373,4 +374,5 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/explorearafat/Leets/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/explorearafat/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
