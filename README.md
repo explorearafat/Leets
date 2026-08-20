@@ -282,6 +282,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/explorearafat/Leets/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/explorearafat/Leets/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/explorearafat/Leets/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/explorearafat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/explorearafat/Leets/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Math
 |  |
@@ -299,6 +300,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/explorearafat/Leets/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/explorearafat/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/explorearafat/Leets/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/explorearafat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -342,4 +344,20 @@ Every accepted solution is another step toward becoming a better programmer.
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/explorearafat/Leets/tree/master/0030-substring-with-concatenation-of-all-words) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/explorearafat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/explorearafat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/explorearafat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/explorearafat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
