@@ -254,6 +254,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0018-4sum](https://github.com/explorearafat/Leets/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/explorearafat/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/explorearafat/Leets/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/explorearafat/Leets/tree/master/0031-next-permutation) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -303,6 +304,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/explorearafat/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/explorearafat/Leets/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/explorearafat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/explorearafat/Leets/tree/master/0031-next-permutation) |
 ## Trie
 |  |
 | ------- |
