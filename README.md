@@ -260,6 +260,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0035-search-insert-position](https://github.com/explorearafat/Leets/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/explorearafat/Leets/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/explorearafat/Leets/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/explorearafat/Leets/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/explorearafat/Leets/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -271,6 +272,7 @@ Every accepted solution is another step toward becoming a better programmer.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/explorearafat/Leets/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/explorearafat/Leets/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/explorearafat/Leets/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/explorearafat/Leets/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/explorearafat/Leets/tree/master/1386-cinema-seat-allocation) |
 ## Greedy
 |  |
